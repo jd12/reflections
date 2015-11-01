@@ -7,3 +7,11 @@ How is the staging area different from the working directory and the repository?
 The staging area is different from the working directory in that the repository is saved across commits and the staging area isn't. It also is not the working directory because you do not interact directly with files in the staging area. 
 
 The value it offers is it helps give the user control as to what they're going to add to the repository. They don't have to commit the entire directory if they don't want to. 
+
+How can you use the staging area to make sure you have one commit per logical change?
+
+When you've made a bunch of changes, you can break them up by adding certain files to the staging area and commiting them seperately
+
+What are some situationswhen brancheswould be helpful in keeping your history organized? How would branches help? 
+
+When experimenting with new features. Branches would help by not messing with the main code while you make changes. It will also help by allowing multiple people to work on the code at the same time. 
