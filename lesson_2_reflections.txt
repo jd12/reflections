@@ -16,3 +16,8 @@ What are some situationswhen brancheswould be helpful in keeping your history or
 
 When experimenting with new features. Branches would help by not messing with the main code while you make changes. It will also help by allowing multiple people to work on the code at the same time. 
 
+How do the diagrams help you visualize the branch structure?
+
+They help see exactly what happens you branch off and how to access different branches and how some branches might not be reachable
+
+
