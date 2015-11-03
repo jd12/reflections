@@ -12,4 +12,3 @@ Why do you think some version control systems, like Git, allow saving multiple f
 	For different purposes. Google docs is used for individual documents. It's rare that a change you make in one document has anything to do it with another document
 	Git is designed for code where one logical change can mean manipulating multiple files. It would be cumbersome to have to commit all those different files. 
 
-This is random text
