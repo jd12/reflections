@@ -6,4 +6,8 @@ I would want to use a remote repository when I'm working from multiple computers
 
 Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
 
-Pulling changes automatically could interfere with the files you're currently working on 
+Pulling changes automatically could interfere with the files you're currently working on
+
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+
+Forks are clones on Github. Clones are copies of repository on your local machine. Branches are part of one repository, to experiment with different features. 
