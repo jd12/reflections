@@ -3,3 +3,10 @@ This is a new file created in Github
 When would you want to use a remote repository rather than keeping all your work local?
 
 I would want to use a remote repository when I'm working from multiple computers or working with multiple people. This would make sure all my code looks the same regardless of computer. 
+
+What is the benefit of having a copy of the last know state of the remote stored locally? 
+
+That way you don't have to be connected to internet to compare changes
+you've made to any changes that were made on the remote repository. 
+
+
