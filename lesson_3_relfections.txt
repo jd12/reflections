@@ -17,3 +17,9 @@ What is the benefit of having a copy of the last know state of the remote stored
 That way you don't have to be connected to internet to compare changes
 you've made to any changes that were made on the remote repository. 
 
+How would you collaborate without using Git or Github? What would be easier, and what would be harder? 
+
+You would have to use a lot of email or meet frequently in person. 
+It would be much harder to work on the work seperately. 
+It might be easier to bring novice programmers on, as they 
+would not need to lear how to use Github. 
