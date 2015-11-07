@@ -23,3 +23,7 @@ You would have to use a lot of email or meet frequently in person.
 It would be much harder to work on the work seperately. 
 It might be easier to bring novice programmers on, as they 
 would not need to lear how to use Github. 
+
+When would you want to make changes in a seperate branch rather than directly in master? What benefits does each approach have? 
+
+If you're working on a specfic feature it's great to have a branch. Also if you don't want to mess up the master branch you can checkout a different branch and work on it before merging with the master branch. That way your master branch is pretty much in sync with the remote branch. 
